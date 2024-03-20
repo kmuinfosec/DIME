@@ -1,5 +1,3 @@
-README, 제안기법, 베이스라인(라이벌스킴), 데이터링크, 논문, 슬라이드(여긴없음) 등.
-
 # DIME
 > *Detecting Internet-of-Things Malware on Evidence Generation*  
 ---
