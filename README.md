@@ -14,6 +14,19 @@ Use the following command to install the packages:
 
 # Citation
 Please cite the paper if you use the code, here is the Bibtex:
+```bibtex
+@ARTICLE{10623818,
+  author={Han, YoonSeok and Seo, HyungBin and Yoon, MyungKeun},
+  journal={IEEE Internet of Things Journal}, 
+  title={Detecting Internet-of-Things Malware on Evidence Generation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Malware;Security;Internet of Things;Companies;Accuracy;Domain Name System;Deep learning;malware;Internet-of-Things;clustering;bipartite graph;signature generation},
+  doi={10.1109/JIOT.2024.3439528}
+}
+```
 
 # More Info and Notes
 Regarding the open datasets used in our experiments in Section IV.
